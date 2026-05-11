@@ -37,4 +37,20 @@ BOTS = [
         "price": "Mercado Pago · 7 días gratis · luego $4.900/mes",
         "link": "https://t.me/atu_t_bot",
     },
+    {
+        "id": "jobmarket_bot",
+        "name": "💼 JobMarket Bot",
+        "emoji": "💼",
+        "tagline": "Encontrá trabajo con IA sin buscar manualmente.",
+        "description": (
+            "💼 *JobMarket Bot* automatiza tu búsqueda laboral con inteligencia artificial.\n\n"
+            "📄 Subí tu CV y el bot arma tu perfil profesional\n"
+            "🤖 Matching semántico con ofertas de LinkedIn y más\n"
+            "🔔 Alertas automáticas con % de compatibilidad\n"
+            "🏠 Filtros por modalidad: remoto, híbrido o presencial\n"
+            "📊 Búsqueda pasiva — trabajá mientras el bot busca por vos"
+        ),
+        "price": "7 días gratis · Luego $4.900/mes vía Mercado Pago",
+        "link": "https://t.me/MarketJobsBot",
+    },
 ]
