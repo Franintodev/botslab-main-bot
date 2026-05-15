@@ -23,21 +23,6 @@ BOTS = [
         "link": "https://t.me/FrankilloTradingbot",
     },
     {
-        "id": "trading_bot",
-        "name": "🤖 Trading Bot",
-        "emoji": "🤖",
-        "tagline": "Trading cuantitativo automatizado en Binance, sin que muevas un dedo.",
-        "description": (
-            "🤖 *Trading Bot* opera automáticamente en Binance Spot usando "
-            "estrategias cuantitativas avanzadas con tu propio capital.\n\n"
-            "🔑 Conecta tus propias API keys de Binance de forma segura\n"
-            "📊 Análisis multi-timeframe (1H + 15M) con scoring adaptativo\n"
-            "🛡️ Gestión de riesgo: Kelly Criterion, trailing stops y circuit breakers"
-        ),
-        "price": "Mercado Pago · 7 días gratis · luego $4.900/mes",
-        "link": "https://t.me/atu_t_bot",
-    },
-    {
         "id": "jobmarket_bot",
         "name": "💼 JobMarket Bot",
         "emoji": "💼",
