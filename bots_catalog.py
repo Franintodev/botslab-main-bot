@@ -30,7 +30,7 @@ BOTS = [
         "description": (
             "💼 *JobMarket Bot* automatiza tu búsqueda laboral con inteligencia artificial.\n\n"
             "📄 Subí tu CV y el bot arma tu perfil profesional\n"
-            "🤖 Matching semántico con ofertas de LinkedIn y más\n"
+            "🤖 Búsqueda en LinkedIn, Indeed, Computrabajo, Bumeran, RemoteOK, Wellfound y Jooble\n"
             "🔔 Alertas automáticas con % de compatibilidad\n"
             "🏠 Filtros por modalidad: remoto, híbrido o presencial\n"
             "📊 Búsqueda pasiva — trabajá mientras el bot busca por vos"
