@@ -8,7 +8,7 @@ BOTS = [
         "emoji": "📈",
         "tagline": "Señales de compra/venta en acciones, CEDEARs y cripto en tiempo real.",
         "description": (
-            "🤖 *Bot Análisis de Inversiones*\n"
+            "🤖 <b>Bot Análisis de Inversiones</b>\n"
             "━━━━━━━━━━━━━━━━━━━━\n"
             "📊 Análisis técnico de acciones\n"
             "🎯 Oportunidades de compra en tiempo real\n"
@@ -28,7 +28,7 @@ BOTS = [
         "emoji": "💼",
         "tagline": "Encontrá trabajo con IA sin buscar manualmente.",
         "description": (
-            "💼 *JobMarket Bot* automatiza tu búsqueda laboral con inteligencia artificial.\n\n"
+            "💼 <b>JobMarket Bot</b> automatiza tu búsqueda laboral con inteligencia artificial.\n\n"
             "📄 Subí tu CV y el bot arma tu perfil profesional\n"
             "🤖 Búsqueda en Indeed, Computrabajo, Bumeran, RemoteOK, Wellfound y Jooble\n"
             "🔔 Alertas automáticas con % de compatibilidad\n"
